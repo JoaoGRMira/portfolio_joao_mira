@@ -1,2 +1,6 @@
-# portfolio_joao_mira
-Portfólio de João Gabriel Ribeiro Mira
+# Portfólio de João Gabriel Ribeiro Mira
+## Introdução
+## Meus Principais Conhecimentos
+## Contatos
+## Meus Projetos
+### Sistema Web para Catálogo de Vagas
