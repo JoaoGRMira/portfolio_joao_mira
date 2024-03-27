@@ -51,7 +51,7 @@ Técnico em Automação Industrial formado pela ETEC Profª Ilza Nascimento Pint
 
 <span id='catalogo'>
 
-### Sistema Web para Catálogo de Vagas - 2023-1 (1° Semestre)
+### Sistema Web para Catálogo de Vagas - 2022-1 (1° Semestre)
 
 ### 📋 Objetivo do Projeto
 
