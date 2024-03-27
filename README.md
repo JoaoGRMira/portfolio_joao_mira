@@ -13,7 +13,7 @@
 <h2 align='center'>👨‍💻 Introdução 👨‍💻</h2>
 <div align="center"><img src="https://avatars.githubusercontent.com/u/103254343?v=4" width="200" height="200"/></div>
 <p>
-Técnico em Automação Industrial formado pela ETEC Profª Ilza Nascimento Pintus, estudante atualmente no 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC Profº Jessen Vidal e estagiário em front-end. Com foco na área de desenvolvimento web, principalmente na construção de interfaces utilizando ReactJS e ferramentas semelhantes, busco aprimorar e complementar minhas habilidades, tanto as hard skills quanto as soft skills, adquiridas ao longo do curso de ADS e no percurso até o momento atual. Tive minhas primeiras interações com o mundo do desenvolvimento e das soft skills durante o curso técnico de automação, integrado ao ensino médio. Essa experiência proporcionou-me a oportunidade de conhecer a área, descobrir habilidades e metodologias que seriam desenvolvidas posteriormente durante o tecnólogo. Tais habilidades foram de suma importância para minha integração ao mercado de trabalho. Durante meu primeiro estágio, iniciado em julho de 2023, pude colocar em prática o que foi aprendido e aprimorar tais habilidades para adequá-las à empresa.
+Técnico em Automação Industrial formado pela ETEC Profª Ilza Nascimento Pintus, estudante atualmente no 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC Profº Jessen Vidal e estagiário em front-end na empresa M&F Soluções em Tecnologia. Com foco na área de desenvolvimento web, principalmente na construção de interfaces utilizando ReactJS e ferramentas semelhantes, busco aprimorar e complementar minhas habilidades, tanto as hard skills quanto as soft skills, adquiridas ao longo do curso de ADS e no percurso até o momento atual. Tive minhas primeiras interações com o mundo do desenvolvimento e das soft skills durante o curso técnico de automação, integrado ao ensino médio. Essa experiência proporcionou-me a oportunidade de conhecer a área, descobrir habilidades e metodologias que seriam desenvolvidas posteriormente durante o tecnólogo. Tais habilidades foram de suma importância para minha integração ao mercado de trabalho. Durante meu primeiro estágio, iniciado em julho de 2023, pude colocar em prática o que foi aprendido e aprimorar tais habilidades para adequá-las à empresa.
 </p>
 
 <br>
@@ -64,7 +64,7 @@ Neste projeto, foi desenvolvido um sistema web destinado à automação do proce
 ### ⚒️ Tecnologias Utilizadas
 <div>
   <span>
-    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</img>
   </span>
   <span>
     <ul>
@@ -77,7 +77,7 @@ Neste projeto, foi desenvolvido um sistema web destinado à automação do proce
 <br>
 <div>
   <span>
-    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS</img>
   </span>
   <span>
     <ul>
@@ -90,7 +90,7 @@ Neste projeto, foi desenvolvido um sistema web destinado à automação do proce
 <br>
 <div>
   <span>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</img>
   </span>
   <span>
     <ul>
@@ -102,7 +102,7 @@ Neste projeto, foi desenvolvido um sistema web destinado à automação do proce
 </div>
 <div>
   <span>
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">Amazon Web Services</img>
   </span>
   <span>
     <ul>
@@ -116,7 +116,7 @@ Neste projeto, foi desenvolvido um sistema web destinado à automação do proce
 <h1></h1>
 
 ### 💡Contribuições Pessoais
-Durante o desenvolvimento, exerci a função de Product Owner do projeto, de acordo com a Metodologia Ágil Scrum. Ocupando esse cargo, fui responsável por pensar e desenvolver o Backlog Total do produto da forma mais clara e detalhada, fazendo perguntas relevantes ao cliente de forma que a aplicação se alinhsasse àquilo que ele desejava da forma mais adequada e consistente possível, e garantindo entregas que se encaixassem ao modelo MVP (Mínimo Produto Viável). Também realizei a prototipagem do produto.
+Durante o desenvolvimento, exerci a função de Product Owner do projeto, de acordo com a Metodologia Ágil Scrum. Ocupando esse cargo, fui responsável por pensar e desenvolver o Backlog Total do produto da forma mais clara e detalhada, fazendo perguntas relevantes ao cliente de forma que a aplicação se alinhsasse àquilo que ele desejava da forma mais adequada e consistente possível, e garantindo entregas que se encaixassem ao modelo MVP (Mínimo Produto Viável). Também realizei a prototipagem do produto. <br>
 Devido ao tamanho da equipe, que consistia em apenas cinco contribuíntes, também fui responsável pelo desenvolvimento de partes do projeto, como na estruturação e estilização de algumas páginas presentes na aplicação.
 
 <br>
@@ -136,5 +136,4 @@ Devido ao tamanho da equipe, que consistia em apenas cinco contribuíntes, tamb�
   <li><b>Proatividade</b> - Durante o desenvolvimento, busquei ajudar naquilo que possuía conhecimento, e busquei por ajuda sempre que necessário;</li>
   <li><b>Autonomia</b> - Realizei minhas tarefas de forma autônoma, buscando colaborar ao máximo com o time;</li>
   <li><b>Comunicação</b> - Mantive uma comunicação aberta para garantir maior organização do grupo, tal como a comunicação com o cliente para sanar todas as dúvidas em relação ao projeto;</li>
-  <li><b>Entrega de Resultado</b> - Mantive entregas consistentes, finalizando, dentro do possível, de forma rápida as tarefas atribuídas à mim.</li>
 </ul>
