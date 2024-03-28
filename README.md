@@ -55,7 +55,7 @@ Técnico em Automação Industrial formado pela ETEC Profª Ilza Nascimento Pint
 
 ### 📋 Desafio (Problema)
 
-Neste projeto proposto de forma interna pela própria Fatec, o desafio consistia na criação de um sistema web destinado à automação do processo de catalogação de vagas, com foco principal em áreas como Tecnologia da Informação (TI). Nele, seria necessário configurar métricas para avaliar aspectos como tipos de conhecimento, habilidades e competências necessárias para cada vaga. O sistema deveria ser visualmente atrativo, incluindo elementos estratégicos como gráficos, e garantindo facilidade de uso e operação. Todo o processo de desenvolvimento também deveria ser documentado no GitHub, assegurando transparência e fornecendo todas as informações necessárias.
+Neste desafio proposto de forma interna pela própria Fatec, o problema consistia na criação de um sistema web destinado à automação do processo de catalogação de vagas, com foco principal em áreas como Tecnologia da Informação (TI). Nele, seria necessário configurar métricas para avaliar aspectos como tipos de conhecimento, habilidades e competências necessárias para cada vaga. O sistema deveria ser visualmente atrativo, incluindo elementos estratégicos como gráficos, e garantindo facilidade de uso e operação. Todo o processo de desenvolvimento também deveria ser documentado no GitHub, assegurando transparência e fornecendo todas as informações necessárias.
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/JoaoGRMira/catalogo-vagas-web)
 
