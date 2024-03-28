@@ -53,9 +53,9 @@ Técnico em Automação Industrial formado pela ETEC Profª Ilza Nascimento Pint
 
 ### Sistema Web para Catálogo de Vagas - 2022-1 (1° Semestre)
 
-### 📋 Objetivo do Projeto
+### 📋 Desafio (Problema)
 
-Neste projeto, foi desenvolvido um sistema web destinado à automação do processo de catalogação de vagas, com foco principal em áreas como Tecnologia da Informação (TI). O objetivo era configurar métricas para avaliar aspectos como tipos de conhecimento, habilidades e competências necessárias para cada vaga. O sistema é visualmente atrativo, incluí elementos estratégicos como gráficos, e garante facilidade de uso e operação. Todo o processo de desenvolvimento foi documentado no GitHub, assegurando transparência e fornecendo aos todas as informações necessárias.
+Neste projeto proposto de forma interna pela própria Fatec, o desafio consistia na criação de um sistema web destinado à automação do processo de catalogação de vagas, com foco principal em áreas como Tecnologia da Informação (TI). Nele, seria necessário configurar métricas para avaliar aspectos como tipos de conhecimento, habilidades e competências necessárias para cada vaga. O sistema deveria ser visualmente atrativo, incluindo elementos estratégicos como gráficos, e garantindo facilidade de uso e operação. Todo o processo de desenvolvimento também deveria ser documentado no GitHub, assegurando transparência e fornecendo todas as informações necessárias.
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/JoaoGRMira/catalogo-vagas-web)
 
@@ -124,7 +124,7 @@ Devido ao tamanho da equipe, que consistia em apenas cinco contribuíntes, tamb�
 <b>Hard Skills</b>
 <ul>
   <li><b>Desenvolvimento web utilizando HTML</b> - Realizo com autonomia</li>
-  <li><b>Estilização das páginas web utilizando CSS</b> - Realiza com autonomia</li>
+  <li><b>Estilização das páginas web utilizando CSS</b> - Realizo com autonomia</li>
   <li><b>Plotagem de gráficos utilizando Python</b> - Realizo com auxílio</li>
   <li><b>Hospedagem utilizando Python, Flask e AWS</b> - Realizo com auxílio</li>
 </ul>
@@ -133,7 +133,7 @@ Devido ao tamanho da equipe, que consistia em apenas cinco contribuíntes, tamb�
 
 <b>Soft Skills</b>
 <ul>
-  <li><b>Proatividade</b> - Durante o desenvolvimento, busquei ajudar naquilo que possuía conhecimento, e busquei por ajuda sempre que necessário;</li>
-  <li><b>Autonomia</b> - Realizei minhas tarefas de forma autônoma, buscando colaborar ao máximo com o time;</li>
-  <li><b>Comunicação</b> - Mantive uma comunicação aberta para garantir maior organização do grupo, tal como a comunicação com o cliente para sanar todas as dúvidas em relação ao projeto;</li>
+  <li><b>Trabalho em equipe</b> - Durante o desenvolvimento, buscar melhor convivência com os membros da equipe, colaborando e sendo prestativo para o grupo;</li>
+  <li><b>Disposição para aprender</b> - Sempre disposto a realizar pesquisas aprofundadas nas tecnologias utilizadas para garantir que as tarefas fossem entregues da melhor forma possível, e para trazer novas soluções práticas para possíveis problemas;</li>
+  <li><b>Comunicação</b> - Mantive uma comunicação aberta para garantir maior organização do grupo, tal como a comunicação com o cliente para sanar todas as dúvidas em relação ao projeto.</li>
 </ul>
