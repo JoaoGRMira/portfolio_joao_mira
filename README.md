@@ -59,6 +59,8 @@ Neste projeto proposto de forma interna pela própria Fatec, o desafio consistia
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/JoaoGRMira/catalogo-vagas-web)
 
+https://user-images.githubusercontent.com/100942191/172070350-3fd39256-f740-41b3-8a1f-5c340a6b36bf.mp4
+
 <h1></h1>
 
 ### ⚒️ Tecnologias Utilizadas
