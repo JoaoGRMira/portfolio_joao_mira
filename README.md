@@ -218,9 +218,9 @@ Durante o desenvolvimento, exerci a função de Developer no projeto, de acordo 
 
 ### 📋 Desafio (Problema)
 
-Nosso cliente, como usuário, quer que seja desenvolvido um sistema de gerenciamento de usuários, assim como um serviço de autenticação/autorização. Este serviço deve ser implementando utilizando tecnologia de microserviço. Deve ser utilizado container, e implementando em esteira de CI/CD. O sistema deve seguir as boas práticas de desenvolvimento orientado a objetos como, SOLID e Clean Code, e Clean Architecture. O sistema deve possuir uma interface para gerenciar os usuarios, pemitindo que sejam criados, visualizados, editados e removidos. Deve ainda permitir a atribuição de permissões para cada usuário. O sistema deverá utilizar como tecnologia backend a linguagem NodeJS, em sua versão mais atual, banco de dados Postgres, e para o frontend ReactJS.
+Nosso cliente, como usuário, procurava por um sistema de gerenciamento de usuários, assim como um serviço de autenticação/autorização. Este serviço deveria ser implementando utilizando tecnologia de microserviço. Deveria ser utilizado container, e implementando em esteira de CI/CD. Também precisava seguir as boas práticas de desenvolvimento orientado a objetos como, SOLID e Clean Code, e Clean Architecture. O sistema deveria possuir uma interface para gerenciar os usuarios, pemitindo que sejam criados, visualizados, editados e removidos, permitir a atribuição de permissões para cada usuário e utilizar como tecnologia backend a linguagem NodeJS, em sua versão mais atual, banco de dados Postgres, e para o frontend ReactJS.
 
-> Acesse o repositório desse projeto clicando [aqui!](https://github.com/JoaoGRMira/sistema-conciliacao-financeira)
+> Acesse o repositório desse projeto clicando [aqui!](https://github.com/atomofatec/API-VISIONA)
 
 https://user-images.githubusercontent.com/100942191/204174733-103fc2a2-7044-4532-8d8d-541e3c66117f.mp4
 
