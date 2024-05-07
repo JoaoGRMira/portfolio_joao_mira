@@ -224,7 +224,7 @@ Nosso cliente, como usuário, procurava por um sistema de gerenciamento de usuá
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/JoaoGRMira/sistema-web-alta-complexidade)
 
-<!--https://user-images.githubusercontent.com/100942191/204174733-103fc2a2-7044-4532-8d8d-541e3c66117f.mp4-->
+https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/e5930f16-666e-4567-852b-1da5919c46f3
 
 <h1></h1>
 
@@ -342,7 +342,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/b2c3ea3b-406c
 
 ### 💡Contribuições Pessoais
 
-Durante esse projeto, exerci novamente a função de Developer, onde fui responsável por tarefas tanto no backend quanto no frontend. Realizei tarefas como desenvolvimento dos sistemas de login, cadastro usuários de diferentes tipos, e listagem desses usuários, assim como a edição e exclusão deles. Também fui responsável por algumas interfaces no frontend, como telas de edição, e por alguns ajustes na tela de tabela de listagem de usuários. O desenvolvimento em uma nova linguagem e novos frameworks trouxeram desafios que foram superados ao decorrer do semestre, resultando novamente em uma entrega com qualidade e dentro dos padrões e requisitos.
+Nesse semestre, ocupei o cargo de Scrum Master do projeto. Fui responsável por esclarecer as dúvidas e garantir que todos executassem a metodologia Scrum corretamente. Precisei analisar e compreender os pontos de vistas dos membros do grupo para que conflitos internos fossem resolvidos de forma consistente para todos. Também fui responsável por gerenciar o cronograma das sprints, supervisionando as tarefas e fazendo mudanças quando necessário para que tudo fosse entregue de forma adequada, priorizando aquilo quer era de maior valor ao cliente de acordo com os backlogs e documentos. Fui responsável pela organização do grupo, utilizando ferramentas e softwares de gerenciamento como Notion para documentar informações importantes para o grupo, assim como o acompanhamento de seu desenvolvimento.
 
 <br>
 
@@ -357,9 +357,9 @@ Durante esse projeto, exerci novamente a função de Developer, onde fui respons
 
 <b>Soft Skills</b>
 <ul>
-  <li><b>Trabalho sob pressão</b> - Durante o desenvolvimento, problemas e desafios da linguagem e da aplicação, tal como problemas internos no grupo, exigiram identificação rápida e soluções eficazes para que tudo fosse entregue como planejado;</li>
-  <li><b>Empatia</b> - Foi necessário analisar de forma crítica o processo de desenvolvimento, identificando padrões e evidências daquilo que poderia causar possíveis divergências durante o semestre, como a gestão do tempo;</li>
-  <li><b>Resiliência</b> - Em meio aos desafios do semestre, precisei entender e reconhecer meus pontos fortes e fracos, valores e motivações. Isso foi imprenscindível para meu desenvolvimento pessoal e profissional, e para que minha contribuição para o grupo durante a resolução dos problemas e desenvolvimento do projeto atingisse o nível necessário.</li>
+  <li><b>Trabalho sob pressão</b> - Devido à complexidade do projeto e das tarefas definidas para que os requisitos fossem cumpridos, foi necessário lidar com a pressão do prazo das sprints com calma e foco, priorizando as tarefas mais importantes e tomando decisões rápidas.;</li>
+  <li><b>Empatia</b> - Foi necessário demonstrar sensibilidade às perspectivas dos demais para promover um ambiente colaborativo durante o desenvolvimento;</li>
+  <li><b>Resiliência</b> - Desafios e contratempos foram enferentados ao longo do projeto com determinação e perseverança, mantendo o compromisso com os objetivos e buscando soluções alternativas para superar obstáculos.</li>
 </ul>
 
 <br/>
