@@ -290,17 +290,17 @@ Durante esse projeto, exerci novamente a função de Developer, onde fui respons
 <h1> </h1>
 <br/>
 
-<span id='visiona'>
+<span id='greenneat'>
 
 ### Sistema Circular de Crédito - 2023-2 (4° Semestre)
 
 ### 📋 Desafio (Problema)
 
-O projeto Sistema circular de produção de saneantes a partir de óleo recuperado, tem o objetivo de envolver os agentes participantes da cadeia de descarte e reciclagem do óleo de fritura usado. O desafio consiste em criar uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual.
+O projeto Sistema circular de produção de saneantes a partir de óleo recuperado, tinha o objetivo de envolver os agentes participantes da cadeia de descarte e reciclagem do óleo de fritura usado. O desafio consistia em criar uma plataforma que gerenciasse os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados, de forma que os créditos poderiam ser usados posteriormente para compra dos saneantes na loja virtual.
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/JoaoGRMira/sistema-circular-de-credito)
 
-<!--https://user-images.githubusercontent.com/100942191/204174733-103fc2a2-7044-4532-8d8d-541e3c66117f.mp4-->
+https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/b2c3ea3b-406c-4341-94df-dd369c1530c6
 
 <h1></h1>
 
@@ -357,9 +357,9 @@ Durante esse projeto, exerci novamente a função de Developer, onde fui respons
 
 <b>Soft Skills</b>
 <ul>
-  <li><b>Resolução de problemas</b> - Durante o desenvolvimento, problemas e desafios da linguagem e da aplicação, tal como problemas internos no grupo, exigiram identificação rápida e soluções eficazes para que tudo fosse entregue como planejado;</li>
-  <li><b>Pensamento crítico</b> - Foi necessário analisar de forma crítica o processo de desenvolvimento, identificando padrões e evidências daquilo que poderia causar possíveis divergências durante o semestre, como a gestão do tempo;</li>
-  <li><b>Autoconhecimento</b> - Em meio aos desafios do semestre, precisei entender e reconhecer meus pontos fortes e fracos, valores e motivações. Isso foi imprenscindível para meu desenvolvimento pessoal e profissional, e para que minha contribuição para o grupo durante a resolução dos problemas e desenvolvimento do projeto atingisse o nível necessário.</li>
+  <li><b>Trabalho sob pressão</b> - Durante o desenvolvimento, problemas e desafios da linguagem e da aplicação, tal como problemas internos no grupo, exigiram identificação rápida e soluções eficazes para que tudo fosse entregue como planejado;</li>
+  <li><b>Empatia</b> - Foi necessário analisar de forma crítica o processo de desenvolvimento, identificando padrões e evidências daquilo que poderia causar possíveis divergências durante o semestre, como a gestão do tempo;</li>
+  <li><b>Resiliência</b> - Em meio aos desafios do semestre, precisei entender e reconhecer meus pontos fortes e fracos, valores e motivações. Isso foi imprenscindível para meu desenvolvimento pessoal e profissional, e para que minha contribuição para o grupo durante a resolução dos problemas e desenvolvimento do projeto atingisse o nível necessário.</li>
 </ul>
 
 <br/>
