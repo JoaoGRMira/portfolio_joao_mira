@@ -3,10 +3,12 @@
 <p align="center">
   <a href ="#introducao"> Introdução </a>  •
   <a href ="#conhecimentos"> Meus Principais Conhecimentos </a>  • 
-  <a href ="#contatos"> Contatos </a>
+  <a href ="#contatos"> Contatos </a>  • 
+  <a href ="#catalogo"> Sistema Web para Catálogo de Vagas </a>
   <br>
-  <a href ="#catalogo"> Sistema Web para Catálogo de Vagas </a>  • 
   <a href ="#financas"> Sistema de Conciliação Financeira </a>  • 
+  <a href ="#visiona"> Sistema Web de Alta Complexidade </a>  • 
+  <a href ="#greenneat"> Sistema Circular de Crédito </a>
 </p>
 
 <span id='introducao'>
@@ -220,16 +222,16 @@ Durante o desenvolvimento, exerci a função de Developer no projeto, de acordo 
 
 Nosso cliente, como usuário, procurava por um sistema de gerenciamento de usuários, assim como um serviço de autenticação/autorização. Este serviço deveria ser implementando utilizando tecnologia de microserviço. Deveria ser utilizado container, e implementando em esteira de CI/CD. Também precisava seguir as boas práticas de desenvolvimento orientado a objetos como, SOLID e Clean Code, e Clean Architecture. O sistema deveria possuir uma interface para gerenciar os usuarios, pemitindo que sejam criados, visualizados, editados e removidos, permitir a atribuição de permissões para cada usuário e utilizar como tecnologia backend a linguagem NodeJS, em sua versão mais atual, banco de dados Postgres, e para o frontend ReactJS.
 
-> Acesse o repositório desse projeto clicando [aqui!](https://github.com/atomofatec/API-VISIONA)
+> Acesse o repositório desse projeto clicando [aqui!](https://github.com/JoaoGRMira/sistema-web-alta-complexidade)
 
-https://user-images.githubusercontent.com/100942191/204174733-103fc2a2-7044-4532-8d8d-541e3c66117f.mp4
+<!--https://user-images.githubusercontent.com/100942191/204174733-103fc2a2-7044-4532-8d8d-541e3c66117f.mp4-->
 
 <h1></h1>
 
 ### ⚒️ Tecnologias Utilizadas
 <div style="display: flex; align-items: center;">
-  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <span>Java</span>
+  <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <span>JavaScript</span>
 </div>
 <div>
   <ul>
@@ -239,23 +241,23 @@ https://user-images.githubusercontent.com/100942191/204174733-103fc2a2-7044-4532
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <span>MySQL</span>
+  <img align="center" alt="ReactJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <span>ReactJS</span>
 </div>
 <div>
   <ul>
-    <li><b>Utilizada para gerenciamento e armazenamento de dados.</b></li>
+    <li><b>Utilizada para estruturação das interfaces no frontend.</b></li>
   </ul>
 </div>
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img align="center" alt="NetBeans" height="40" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png">
-  <span>NetBeans IDE</span>
+  <img align="center" alt="NetBeans" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <span>PostgreSQL</span>
 </div>
 <div>
   <ul>
-    <li><b>Utilizada como interface de desenvolvimento.</b></li>
+    <li><b>Utilizado para armazenamento e gerenciamento dos dados.</b></li>
   </ul>
 </div>
 <br>
@@ -264,23 +266,100 @@ https://user-images.githubusercontent.com/100942191/204174733-103fc2a2-7044-4532
 
 ### 💡Contribuições Pessoais
 
-Durante o desenvolvimento, exerci a função de Developer no projeto, de acordo com a Metodologia Ágil Scrum. Ocupando esse cargo, fui responsável, juntamente com os outros desenvolvedores que formavam o Scrum Team, por desenvolver as tarefas estabelecidas para a realização do projeto. Fui responsável pelo desenvolvimento do frontend, onde tive maior foco de atuação, utilizando a interface NetBeans para composição visual do sistema de forma consistente e agradável. Também tive contribuições menores no backend, em partes do sistema no tratamento de usuários. <br>
+Durante esse projeto, exerci novamente a função de Developer, onde fui responsável por tarefas tanto no backend quanto no frontend. Realizei tarefas como desenvolvimento dos sistemas de login, cadastro usuários de diferentes tipos, e listagem desses usuários, assim como a edição e exclusão deles. Também fui responsável por algumas interfaces no frontend, como telas de edição, e por alguns ajustes na tela de tabela de listagem de usuários. O desenvolvimento em uma nova linguagem e novos frameworks trouxeram desafios que foram superados ao decorrer do semestre, resultando novamente em uma entrega com qualidade e dentro dos padrões e requisitos.
+
 <br>
 
 <b>Hard Skills</b>
 <ul>
   <li><b>Modelagem de bancos de dados com linguagem SQL</b> - Realizo com autonomia</li>
-  <li><b>Desenvolvimento utilizando a linguagem Java</b> - Realizo com auxílio</li>
-  <li><b>Elaboração de interfaces utilizando a linguagem Java</b> - Realizo com autonomia</li>
+  <li><b>Desenvolvimento utilizando a linguagem JavaScript</b> - Realizo com autonomia</li>
+  <li><b>Elaboração de interfaces utilizando ReactJS</b> - Realizo com autonomia</li>
 </ul>
 
 <br>
 
 <b>Soft Skills</b>
 <ul>
-  <li><b>Flexibilidade</b> - Com novas linguagens, novos ambientes e novos desafios, foi necessária uma maior capacidade de adaptação à mudanças durante o processo;</li>
-  <li><b>Criatividade</b> - Minha capacidade criativa foi explorada ao contribuir para a criação do frontend com novas ideias, e soluções para conflitos no decorrer do projeto;</li>
-  <li><b>Entrega de resultados</b> - Busquei realizar as entregas em tempo ideal, com qualidade e eficiência durante o desenvolvimento.</li>
+  <li><b>Resolução de problemas</b> - Durante o desenvolvimento, problemas e desafios da linguagem e da aplicação, tal como problemas internos no grupo, exigiram identificação rápida e soluções eficazes para que tudo fosse entregue como planejado;</li>
+  <li><b>Pensamento crítico</b> - Foi necessário analisar de forma crítica o processo de desenvolvimento, identificando padrões e evidências daquilo que poderia causar possíveis divergências durante o semestre, como a gestão do tempo;</li>
+  <li><b>Autoconhecimento</b> - Em meio aos desafios do semestre, precisei entender e reconhecer meus pontos fortes e fracos, valores e motivações. Isso foi imprenscindível para meu desenvolvimento pessoal e profissional, e para que minha contribuição para o grupo durante a resolução dos problemas e desenvolvimento do projeto atingisse o nível necessário.</li>
+</ul>
+
+<br/>
+<h1> </h1>
+<br/>
+
+<span id='visiona'>
+
+### Sistema Circular de Crédito - 2023-2 (4° Semestre)
+
+### 📋 Desafio (Problema)
+
+O projeto Sistema circular de produção de saneantes a partir de óleo recuperado, tem o objetivo de envolver os agentes participantes da cadeia de descarte e reciclagem do óleo de fritura usado. O desafio consiste em criar uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual.
+
+> Acesse o repositório desse projeto clicando [aqui!](https://github.com/JoaoGRMira/sistema-circular-de-credito)
+
+<!--https://user-images.githubusercontent.com/100942191/204174733-103fc2a2-7044-4532-8d8d-541e3c66117f.mp4-->
+
+<h1></h1>
+
+### ⚒️ Tecnologias Utilizadas
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <span>JavaScript</span>
+</div>
+<div>
+  <ul>
+    <li><b>Utilizada para o desenvolvimento dos sistemas.</b></li>
+  </ul>
+</div>
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="ReactJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <span>ReactJS</span>
+</div>
+<div>
+  <ul>
+    <li><b>Utilizada para estruturação das interfaces no frontend.</b></li>
+  </ul>
+</div>
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="NetBeans" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <span>PostgreSQL</span>
+</div>
+<div>
+  <ul>
+    <li><b>Utilizado para armazenamento e gerenciamento dos dados.</b></li>
+  </ul>
+</div>
+<br>
+
+<h1></h1>
+
+### 💡Contribuições Pessoais
+
+Durante esse projeto, exerci novamente a função de Developer, onde fui responsável por tarefas tanto no backend quanto no frontend. Realizei tarefas como desenvolvimento dos sistemas de login, cadastro usuários de diferentes tipos, e listagem desses usuários, assim como a edição e exclusão deles. Também fui responsável por algumas interfaces no frontend, como telas de edição, e por alguns ajustes na tela de tabela de listagem de usuários. O desenvolvimento em uma nova linguagem e novos frameworks trouxeram desafios que foram superados ao decorrer do semestre, resultando novamente em uma entrega com qualidade e dentro dos padrões e requisitos.
+
+<br>
+
+<b>Hard Skills</b>
+<ul>
+  <li><b>Modelagem de bancos de dados com linguagem SQL</b> - Realizo com autonomia</li>
+  <li><b>Desenvolvimento utilizando a linguagem JavaScript</b> - Realizo com autonomia</li>
+  <li><b>Elaboração de interfaces utilizando ReactJS</b> - Realizo com autonomia</li>
+</ul>
+
+<br>
+
+<b>Soft Skills</b>
+<ul>
+  <li><b>Resolução de problemas</b> - Durante o desenvolvimento, problemas e desafios da linguagem e da aplicação, tal como problemas internos no grupo, exigiram identificação rápida e soluções eficazes para que tudo fosse entregue como planejado;</li>
+  <li><b>Pensamento crítico</b> - Foi necessário analisar de forma crítica o processo de desenvolvimento, identificando padrões e evidências daquilo que poderia causar possíveis divergências durante o semestre, como a gestão do tempo;</li>
+  <li><b>Autoconhecimento</b> - Em meio aos desafios do semestre, precisei entender e reconhecer meus pontos fortes e fracos, valores e motivações. Isso foi imprenscindível para meu desenvolvimento pessoal e profissional, e para que minha contribuição para o grupo durante a resolução dos problemas e desenvolvimento do projeto atingisse o nível necessário.</li>
 </ul>
 
 <br/>
