@@ -266,7 +266,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/e5930f16-666e
 
 ### 💡Contribuições Pessoais
 
-Durante esse projeto, exerci novamente a função de Developer, onde fui responsável por tarefas tanto no backend quanto no frontend. Realizei tarefas como desenvolvimento dos sistemas de login, cadastro usuários de diferentes tipos, e listagem desses usuários, assim como a edição e exclusão deles. Também fui responsável por algumas interfaces no frontend, como telas de edição, e por alguns ajustes na tela de tabela de listagem de usuários. O desenvolvimento em uma nova linguagem e novos frameworks trouxeram desafios que foram superados ao decorrer do semestre, resultando novamente em uma entrega com qualidade e dentro dos padrões e requisitos.
+Durante esse projeto, exerci novamente a função de Developer, onde fui responsável por tarefas tanto no backend quanto no frontend. Realizei tarefas como desenvolvimento dos sistemas de login, cadastro usuários de diferentes tipos e listagem desses usuários, assim como a edição e exclusão deles. Também fui responsável por algumas interfaces no frontend, como telas de edição, e por alguns ajustes na tela de tabela de listagem de usuários. O desenvolvimento em uma nova linguagem e novos frameworks trouxeram diversos desafios para todos, acarretando na necessidade da mudança de estratégias durante o projeto. Esses desafios foram superados ao decorrer do semestre, resultando novamente em uma entrega com qualidade e dentro dos padrões e requisitos.
 
 <br>
 
@@ -342,7 +342,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/b2c3ea3b-406c
 
 ### 💡Contribuições Pessoais
 
-Nesse semestre, ocupei o cargo de Scrum Master do projeto. Fui responsável por esclarecer as dúvidas e garantir que todos executassem a metodologia Scrum corretamente. Precisei analisar e compreender os pontos de vistas dos membros do grupo para que conflitos internos fossem resolvidos de forma consistente para todos. Também fui responsável por gerenciar o cronograma das sprints, supervisionando as tarefas e fazendo mudanças quando necessário para que tudo fosse entregue de forma adequada, priorizando aquilo quer era de maior valor ao cliente de acordo com os backlogs e documentos. Fui responsável pela organização do grupo, utilizando ferramentas e softwares de gerenciamento como Notion para documentar informações importantes para o grupo, assim como o acompanhamento de seu desenvolvimento.
+Nesse semestre, ocupei o cargo de Scrum Master do projeto. Fui responsável por esclarecer as dúvidas e garantir que todos executassem a metodologia Scrum corretamente. Precisei analisar e compreender os pontos de vistas dos membros do grupo para que conflitos internos fossem resolvidos de forma consistente para todos, lidando com a pressão e superando contratempos. Também fui responsável por gerenciar o cronograma das sprints, supervisionando as tarefas e fazendo mudanças quando necessário para que tudo fosse entregue de forma adequada, priorizando aquilo quer era de maior valor ao cliente de acordo com os backlogs e documentos. Fui responsável pela organização do grupo utilizando ferramentas e softwares de gerenciamento como Notion para documentar informações importantes para o grupo, assim como o acompanhamento de seu desenvolvimento.
 
 <br>
 
