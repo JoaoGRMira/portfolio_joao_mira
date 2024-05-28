@@ -4,11 +4,12 @@
   <a href ="#introducao"> Introdução </a>  •
   <a href ="#conhecimentos"> Meus Principais Conhecimentos </a>  • 
   <a href ="#contatos"> Contatos </a>  • 
-  <a href ="#catalogo"> Sistema Web para Catálogo de Vagas </a>
+  <a href ="#catalogo"> Sistema Web para Catálogo de Vagas </a>  • 
+  <a href ="#financas"> Sistema de Conciliação Financeira </a>
   <br>
-  <a href ="#financas"> Sistema de Conciliação Financeira </a>  • 
   <a href ="#visiona"> Sistema Web de Alta Complexidade </a>  • 
-  <a href ="#greenneat"> Sistema Circular de Crédito </a>
+  <a href ="#greenneat"> Sistema Circular de Crédito </a>  • 
+  <a href ="#oracle"> Sistema de Gerenciamento de Parceiros </a>
 </p>
 
 <span id='introducao'>
@@ -357,9 +358,97 @@ Nesse semestre, ocupei o cargo de Scrum Master do projeto. Fui responsável por 
 
 <b>Soft Skills</b>
 <ul>
-  <li><b>Trabalho sob pressão</b> - Devido à complexidade do projeto e das tarefas definidas para que os requisitos fossem cumpridos, foi necessário lidar com a pressão do prazo das sprints com calma e foco, priorizando as tarefas mais importantes e tomando decisões rápidas.;</li>
+  <li><b>Trabalho sob pressão</b> - Devido à complexidade do projeto e das tarefas definidas para que os requisitos fossem cumpridos, foi necessário lidar com a pressão do prazo das sprints com calma e foco, priorizando as tarefas mais importantes e tomando decisões rápidas;</li>
   <li><b>Empatia</b> - Foi necessário demonstrar sensibilidade às perspectivas dos demais para promover um ambiente colaborativo durante o desenvolvimento;</li>
   <li><b>Resiliência</b> - Desafios e contratempos foram enferentados ao longo do projeto com determinação e perseverança, mantendo o compromisso com os objetivos e buscando soluções alternativas para superar obstáculos.</li>
+</ul>
+
+<br/>
+<h1> </h1>
+<br/>
+
+<span id='oracle'>
+
+### Sistema de Gerenciamento de Parceiros - 2024-1 (5° Semestre)
+
+### 📋 Desafio (Problema)
+
+O desafio foi pensado a partir da necessidade de automatizar e facilitar o gerenciamento de parceiros registrados no programa Oracle PartnerNetwork. Foi proposto o desenvolvimento de um sistema em plataforma mobile responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes.
+
+> Acesse o repositório desse projeto clicando [aqui!](https://github.com/atomofatec/API-ORACLE)
+
+https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e-4c50-ba11-82d906f48f33
+
+<h1></h1>
+
+### ⚒️ Tecnologias Utilizadas
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <span>JavaScript</span>
+</div>
+<div>
+  <ul>
+    <li><b>Utilizada para o desenvolvimento dos sistemas.</b></li>
+  </ul>
+</div>
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="ReactJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <span>React Native</span>
+</div>
+<div>
+  <ul>
+    <li><b>Utilizada para estruturação das interfaces no frontend.</b></li>
+  </ul>
+</div>
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="NetBeans" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <span>PostgreSQL</span>
+</div>
+<div>
+  <ul>
+    <li><b>Utilizado para armazenamento e gerenciamento dos dados.</b></li>
+  </ul>
+</div>
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="NetBeans" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+  <span>MongoDB</span>
+</div>
+<div>
+  <ul>
+    <li><b>Utilizado para armazenamento e gerenciamento dos dados.</b></li>
+  </ul>
+</div>
+<br>
+
+<h1></h1>
+
+### 💡Contribuições Pessoais
+
+Novamente fui Scrum Master da equipe durante esse semestre. Fui o responsável pelo gerenciamento do grupo, garantindo que as tarefas fossem executadas e entregues dentro dos prazos seguindo e respeitando a metodologia Scrum. Com o uso de ferramentas de gestão como o Notion, utilizei métodos como Kanban para organização das tarefas, tabelas para fácil visualização de backlogs e afins, páginas dedicadas à anotações e explicações do projeto, e guias de padronização de commits. Também fui responsável pelo gerenciamento do GitHub, mantendo três repositórios (Parent, Front e BD) de forma adequada e consistente. Apliquei a estratégia de branches para que o desenvolvimento seguisse um fluxo limpo e mais seguro, e também fui responsável pela criação de tags e releases de versões da aplicação.
+
+<br>
+
+<b>Hard Skills</b>
+<ul>
+  <li><b>Modelagem de bancos de dados com MongoDB</b> - Realizo com auxílio e pesquisas aprofundadas</li>
+  <li><b>Modelagem de bancos de dados com linguagem SQL</b> - Realizo com autonomia</li>
+  <li><b>Desenvolvimento utilizando a linguagem JavaScript</b> - Realizo com autonomia</li>
+  <li><b>Elaboração de interfaces utilizando React Native</b> - Realizo com autonomia</li>
+</ul>
+
+<br>
+
+<b>Soft Skills</b>
+<ul>
+  <li><b>Resolução de problemas</b> - Durante o semestre, aprendi a encontrar soluções de forma mais rápida e eficaz tanto para problemas relacionados à linguagem utilizada, quanto na gestão do grupo, como em casos de reformulação de conceitos relacionados ao funcionamento da aplicação;</li>
+  <li><b>Gestão de tempo</b> - Sendo o semestre com maior aproveitamento do tempo, aprendi a organizar as tarefas de forma mais inteligente e a guiar a equipe à serem mais proativos quanto ao cumprimento de prazos, sempre se precavendo contra possíveis contratempos;</li>
+  <li><b>Proatividade</b> - Exerci a proatividade principalmente em relação ao planejamento da equipe, buscando programar os próximos passos com antecedência e analisando as situações de forma cautelosa, para contornar possíveis problemas e atrasos. Também busquei ajudar os colegas de equipe sempre que possível, colaborando para solucionar impasses em tarefas quando necessário.</li>
 </ul>
 
 <br/>
