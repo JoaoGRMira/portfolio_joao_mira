@@ -267,7 +267,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/e5930f16-666e
 
 ### 💡Contribuições Pessoais
 
-Durante esse projeto, exerci novamente a função de Developer, onde fui responsável por tarefas tanto no backend quanto no frontend. Realizei tarefas como desenvolvimento dos sistemas de login, cadastro usuários de diferentes tipos e listagem desses usuários, assim como a edição e exclusão deles. Também fui responsável por algumas interfaces no frontend, como telas de edição, e por alguns ajustes na tela de tabela de listagem de usuários. O desenvolvimento em uma nova linguagem e novos frameworks trouxeram diversos desafios para todos, acarretando na necessidade da mudança de estratégias durante o projeto. Esses desafios foram superados ao decorrer do semestre, resultando novamente em uma entrega com qualidade e dentro dos padrões e requisitos.
+Durante esse projeto, exerci novamente a função de Developer, onde fui responsável por tarefas tanto no backend quanto no frontend. Realizei tarefas como desenvolvimento dos sistemas de login, cadastro usuários de diferentes tipos e listagem desses usuários, assim como a edição e exclusão deles. Também fui responsável por algumas interfaces no frontend, como telas de edição, e por alguns ajustes na tela de tabela de listagem de usuários. O desenvolvimento em uma nova linguagem e novos frameworks trouxeram diversos desafios para todos, acarretando na necessidade da mudança de estratégias durante o projeto. Esses desafios ocasionaram em atrasos e falhas impactantes no desenvolvimento, porém foram superados ao decorrer do semestre, resultando novamente em uma entrega com qualidade e dentro dos padrões e requisitos.
 
 <br>
 
@@ -431,6 +431,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 ### 💡Contribuições Pessoais
 
 Novamente fui Scrum Master da equipe durante esse semestre. Fui o responsável pelo gerenciamento do grupo, garantindo que as tarefas fossem executadas e entregues dentro dos prazos seguindo e respeitando a metodologia Scrum. Com o uso de ferramentas de gestão como o Notion, utilizei métodos como Kanban para organização das tarefas, tabelas para fácil visualização de backlogs e afins, páginas dedicadas à anotações e explicações do projeto, e guias de padronização de commits. Também fui responsável pelo gerenciamento do GitHub, mantendo três repositórios (Parent, Front e BD) de forma adequada e consistente. Apliquei a estratégia de branches para que o desenvolvimento seguisse um fluxo limpo e mais seguro, e também fui responsável pela criação de tags e releases de versões da aplicação.
+Durante o desenvolvimento, enfrentamos impasses em relação à mudanças em funções do projeto à pedido do cliente, o que exigiu uma rápida reação para que o tempo não fosse perdido. Esses impasses logo foram contornados, reestruturando partes do projeto para que se adequasse àquilo que foi pedido, sem impactar o desenvolvimento e o ritmo no qual a equipe estava trabalhando.
 
 <br>
 
