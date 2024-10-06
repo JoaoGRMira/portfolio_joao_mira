@@ -132,7 +132,7 @@ Devido ao tamanho da equipe, que consistia em apenas cinco contribuíntes, tamb�
 <b>Soft Skills</b>
 <ul>
   <li><b>Trabalho em equipe</b> - Durante o desenvolvimento, busquei colaborar com soluções criativas para problemas, entregas rápidas para evitar sobrecarga dos demais, e boa convivência no novo ambiente e com os novos colegas;</li>
-  <li><b>Disposição para aprender</b> - Por ser uma área nova, com novas experiências e possibilidades, me dediquei à pesquisas aprofundadas no assunto para garantir qualidade nas entregas das tarefas e ajudar o grupo com soluções técnicas adequadas ao projeto;</li>
+  <li><b>Disposição para aprender</b> - Por ser uma área nova, com novas experiências e possibilidades, me dediquei à pesquisas aprofundadas nas tecnologias utilizadas, como HTML, CSS e Python com suas diversas bibliotecas, para garantir qualidade nas entregas das tarefas e ajudar o grupo com soluções técnicas adequadas ao projeto;</li>
   <li><b>Comunicação</b> - Mantive uma comunicação aberta para garantir maior organização do grupo, tal como a comunicação com o cliente para sanar todas as dúvidas em relação ao projeto.</li>
 </ul>
 
@@ -206,8 +206,8 @@ Durante o desenvolvimento, exerci a função de Developer no projeto, de acordo 
 
 <b>Soft Skills</b>
 <ul>
-  <li><b>Flexibilidade</b> - Com novas linguagens, novos ambientes e novos desafios, foi necessária uma maior capacidade de adaptação à mudanças durante o processo;</li>
-  <li><b>Criatividade</b> - Minha capacidade criativa foi explorada ao contribuir para a criação do frontend com novas ideias, e soluções para conflitos no decorrer do projeto;</li>
+  <li><b>Flexibilidade</b> - Com novas linguagens, novos ambientes e novos desafios, foi necessária uma maior capacidade de adaptação à mudanças durante o processo, reconhecendo e aprendendo à lidar com as ferramentas NetBeans da linguagem Java e banco de dados MySQL;</li>
+  <li><b>Criatividade</b> - Minha capacidade criativa foi explorada ao contribuir para a criação do frontend com novas ideias que foram desenvolvidas usando o ambiente disponibilizado pelo software NetBeans, e soluções para conflitos como problemas ao editar usuários utilizando a estrutura de classes em Java no decorrer do projeto;</li>
   <li><b>Entrega de resultados</b> - Busquei realizar as entregas em tempo ideal, com qualidade e eficiência durante o desenvolvimento.</li>
 </ul>
 
@@ -282,8 +282,8 @@ Durante esse projeto, exerci novamente a função de Developer, onde fui respons
 
 <b>Soft Skills</b>
 <ul>
-  <li><b>Resolução de problemas</b> - Durante o desenvolvimento, problemas e desafios da linguagem e da aplicação, tal como problemas internos no grupo, exigiram identificação rápida e soluções eficazes para que tudo fosse entregue como planejado;</li>
-  <li><b>Pensamento crítico</b> - Foi necessário analisar de forma crítica o processo de desenvolvimento, identificando padrões e evidências daquilo que poderia causar possíveis divergências durante o semestre, como a gestão do tempo;</li>
+  <li><b>Resolução de problemas</b> - Durante o desenvolvimento, problemas e desafios da linguagem e da aplicação, tal como problemas internos no grupo, exigiram identificação rápida e soluções eficazes para que tudo fosse entregue como planejado. Precisei aprimorar meu conhecimento em lógica de programação para aplicar novas estratégias em JavaScript, implementando um CRUD funcional e fazendo sua integração com frontend e banco de dados. Também busquei por frameworks como Express, Cors e Pg, facilitando o desenvolvimento;</li>
+  <li><b>Pensamento crítico</b> - Foi necessário analisar de forma crítica o processo de desenvolvimento, identificando padrões e evidências daquilo que poderia causar possíveis divergências durante o semestre, como a gestão do tempo. Partindo da metodologia scrum como metodologia ágil aplicada no projeto, foi necessário identificar e apontar aquilo que estava causando atrasos para as entregas.;</li>
   <li><b>Autoconhecimento</b> - Em meio aos desafios do semestre, precisei entender e reconhecer meus pontos fortes e fracos, valores e motivações. Isso foi imprenscindível para meu desenvolvimento pessoal e profissional, e para que minha contribuição para o grupo durante a resolução dos problemas e desenvolvimento do projeto atingisse o nível necessário.</li>
 </ul>
 
@@ -360,7 +360,7 @@ Nesse semestre, ocupei o cargo de Scrum Master do projeto. Fui responsável por 
 <ul>
   <li><b>Trabalho sob pressão</b> - Devido à complexidade do projeto e das tarefas definidas para que os requisitos fossem cumpridos, foi necessário lidar com a pressão do prazo das sprints com calma e foco, priorizando as tarefas mais importantes e tomando decisões rápidas;</li>
   <li><b>Empatia</b> - Foi necessário demonstrar sensibilidade às perspectivas dos demais para promover um ambiente colaborativo durante o desenvolvimento;</li>
-  <li><b>Resiliência</b> - Desafios e contratempos foram enferentados ao longo do projeto com determinação e perseverança, mantendo o compromisso com os objetivos e buscando soluções alternativas para superar obstáculos.</li>
+  <li><b>Resiliência</b> - Desafios e contratempos foram enfrentados ao longo do projeto com determinação e perseverança, mantendo o compromisso com os objetivos e buscando soluções alternativas para superar obstáculos.</li>
 </ul>
 
 <br/>
