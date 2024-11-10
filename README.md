@@ -9,7 +9,8 @@
   <br>
   <a href ="#visiona"> Sistema Web de Alta Complexidade </a>  • 
   <a href ="#greenneat"> Sistema Circular de Crédito </a>  • 
-  <a href ="#oracle"> Sistema de Gerenciamento de Parceiros </a>
+  <a href ="#oracle"> Sistema de Gerenciamento de Parceiros </a>  • 
+  <a href ="#domrock"> IA para Analytics Empresarial </a>
 </p>
 
 <span id='introducao'>
@@ -17,7 +18,11 @@
 <h2 align='center'>👨‍💻 Introdução 👨‍💻</h2>
 <div align="center"><img src="https://avatars.githubusercontent.com/u/103254343?v=4" width="200" height="200"/></div>
 <p>
-Técnico em Automação Industrial formado pela ETEC Profª Ilza Nascimento Pintus, estudante atualmente no 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC Profº Jessen Vidal e com experiência no desenvolvimento front-end na empresa M&F Soluções em Tecnologia. Mesmo com conhecimento "Full-Stack", sabendo lidar com back-end, banco de dados e front-end, meu maior foco está na área de desenvolvimento web, principalmente na construção de interfaces utilizando ReactJS e ferramentas semelhantes. Busco aprimorar e complementar minhas habilidades gerais na área da programação como um todo, tanto as hard skills quanto as soft skills, adquiridas ao longo do curso de ADS e no percurso até o momento atual. Tive minhas primeiras interações com o mundo do desenvolvimento e das soft skills durante o curso técnico de automação, integrado ao ensino médio. Essa experiência proporcionou-me a oportunidade de conhecer a área, descobrir habilidades e metodologias que seriam desenvolvidas posteriormente durante o tecnólogo. Tais habilidades foram de suma importância para minha integração ao mercado de trabalho. Durante meu primeiro estágio, iniciado em julho de 2023, pude colocar em prática o que foi aprendido e aprimorar tais habilidades para adequá-las à empresa.
+Sou Técnico em Automação Industrial formado pela ETEC Profª Ilza Nascimento Pintus e atualmente estudante do 6º semestre de Análise e Desenvolvimento de Sistemas na FATEC Profº Jessen Vidal. Tive minhas primeiras interações com o mundo do desenvolvimento e das soft skills durante o curso técnico de automação, integrado ao ensino médio. Essa experiência me proporcionou a oportunidade de conhecer a área, descobrir habilidades e metodologias que seriam desenvolvidas posteriormente durante o tecnólogo, sendo de suma importância para minha integração ao mercado de trabalho.
+
+Em minha trajetória profissional, atuei como desenvolvedor front-end na empresa M&F Soluções em Tecnologia durante o período de 1 ano. Iniciei meu primeiro estágio em julho de 2023, onde pude colocar em prática o que foi aprendido e aprimorar tais habilidades para adequá-las às demandas da empresa. Mesmo com conhecimento "Full-Stack", sabendo lidar com back-end, banco de dados e front-end, meu maior foco está na área de desenvolvimento web, principalmente na construção de interfaces utilizando ReactJS e ferramentas semelhantes.
+
+Sigo em busca de aprimorar tanto minhas hard skills quanto minhas soft skills, fortalecendo minhas capacidades gerais em programação e me preparando para novos desafios na área, contribuindo para um ambiente cooperativo e eficiente.
 </p>
 
 <br>
@@ -59,7 +64,9 @@ Técnico em Automação Industrial formado pela ETEC Profª Ilza Nascimento Pint
 
 ### 📋 Desafio (Problema)
 
-Neste desafio proposto de forma interna pela própria Fatec, o problema consistia na criação de um sistema web destinado à automação do processo de catalogação de vagas, com foco principal em áreas como Tecnologia da Informação (TI). Nele, seria necessário configurar métricas para avaliar aspectos como tipos de conhecimento, habilidades e competências necessárias para cada vaga. O sistema deveria ser visualmente atrativo, incluindo elementos estratégicos como gráficos, e garantindo facilidade de uso e operação. Todo o processo de desenvolvimento também deveria ser documentado no GitHub, assegurando transparência e fornecendo todas as informações necessárias.
+Neste desafio proposto internamente pela Fatec, o cliente foi o professor Antônio Egydio. O problema estava relacionado à dificuldade na busca de vagas de emprego na área de TI. A falta de plataformas claras e com informações úteis para pessoas que buscam oportunidades dentro do setor resultou na necessidade de criar um sistema web destinado à automação do processo de catalogação de vagas, com foco principal em áreas como Tecnologia da Informação (TI).
+
+Como solução, seria necessário definir métricas para avaliar aspectos como tipos de conhecimento, habilidades e competências necessárias para cada vaga em nossa página web. O sistema deveria ser visualmente atrativo, incluindo elementos estratégicos como gráficos, e garantindo facilidade de uso. Todo o processo de desenvolvimento também deveria ser documentado no GitHub, assegurando transparência e fornecendo todas as informações necessárias.
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/JoaoGRMira/catalogo-vagas-web)
 
@@ -131,9 +138,17 @@ Devido ao tamanho da equipe, que consistia em apenas cinco contribuíntes, tamb�
 
 <b>Soft Skills</b>
 <ul>
-  <li><b>Trabalho em equipe</b> - Durante o desenvolvimento, busquei colaborar com soluções criativas para problemas, entregas rápidas para evitar sobrecarga dos demais, e boa convivência no novo ambiente e com os novos colegas;</li>
-  <li><b>Disposição para aprender</b> - Por ser uma área nova, com novas experiências e possibilidades, me dediquei à pesquisas aprofundadas nas tecnologias utilizadas, como HTML, CSS e Python com suas diversas bibliotecas, para garantir qualidade nas entregas das tarefas e ajudar o grupo com soluções técnicas adequadas ao projeto;</li>
-  <li><b>Comunicação</b> - Mantive uma comunicação aberta para garantir maior organização do grupo, tal como a comunicação com o cliente para sanar todas as dúvidas em relação ao projeto.</li>
+  <li>
+    <b>Trabalho em equipe</b> - Durante o desenvolvimento, realizei entregas rápidas para que o processo não sofresse atrasos, colaborei com sugestões técnicas, como o uso de grids e containers com CSS para estruturação das páginas, além de priorizar a boa convivência, criando afinidade com meus novos colegas de equipe;
+  </li>
+  
+  <li>
+    <b>Disposição para aprender</b> - Por conta de minha recente integração à área, diferente de meus colegas que já estavam familiarizados com programação, me dediquei a pesquisas aprofundadas nas tecnologias utilizadas, além de compartilhar experiências com os demais colegas e, assim, contribuir ativamente com o grupo. Nessas pesquisas, aprendi diferentes técnicas de estruturação de páginas HTML com uso de containers, uso de folhas de estilo com CSS, e introdução à responsividade entre dispositivos;
+  </li>
+  
+  <li>
+    <b>Comunicação</b> - Mantive uma comunicação aberta para garantir maior organização do grupo, bem como o contato com o cliente para sanar todas as dúvidas em relação ao projeto, alinhando suas expectativas com o resultado final do produto.
+  </li>
 </ul>
 
 <br/>
@@ -146,7 +161,9 @@ Devido ao tamanho da equipe, que consistia em apenas cinco contribuíntes, tamb�
 
 ### 📋 Desafio (Problema)
 
-Proposto pela empresa Track Cash, o desafio era desenvolver um sistema para realização do processo de conciliação financeira dos clientes usuários de suas plataformas. Esses clientes eram vendedores de lojas online e físicas. Para que fosse possível realizar esse processo, seria necessário coletar informações dessas vendas. Para isso, esses clientes precisavam realizar uma série de configurações, cedendo autorização para que o sistema pudesse acessar APIs e planilhas de forma automatizada. Essas autorizações acontecem pela recepção de tokens e usuários de acesso. Portanto, esse sistema é responsável por salvar essas informações de usuário/senha e tokens.
+O desafio foi proposto pela empresa parceira Track Cash, que atua na área de vendas em lojas físicas e online. O problema surgiu por conta das dificuldades no controle de seus canais de venda e usuários, em que a falta de um sistema para automatizar o processo de gerenciamento dos dados financeiros causava atrasos e outros impactos negativos para a empresa. Com isso, foi proposto o desenvolvimento de um sistema para a realização do processo de conciliação financeira dos clientes de suas plataformas.
+
+Para que fosse possível realizar esse processo, seria necessário coletar informações das vendas dos clientes da empresa. Para isso, os clientes precisariam realizar uma série de configurações, cedendo autorização para que o sistema pudesse acessar APIs e planilhas de forma automatizada. Essas autorizações ocorrem mediante a recepção de tokens e credenciais de acesso (usuário/senha). Portanto, esse sistema é responsável por salvar essas informações de credenciais e tokens.
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/JoaoGRMira/sistema-conciliacao-financeira)
 
@@ -206,9 +223,17 @@ Durante o desenvolvimento, exerci a função de Developer no projeto, de acordo 
 
 <b>Soft Skills</b>
 <ul>
-  <li><b>Flexibilidade</b> - Com novas linguagens, novos ambientes e novos desafios, foi necessária uma maior capacidade de adaptação à mudanças durante o processo, reconhecendo e aprendendo à lidar com as ferramentas NetBeans da linguagem Java e banco de dados MySQL;</li>
-  <li><b>Criatividade</b> - Minha capacidade criativa foi explorada ao contribuir para a criação do frontend com novas ideias que foram desenvolvidas usando o ambiente disponibilizado pelo software NetBeans, e soluções para conflitos como problemas ao editar usuários utilizando a estrutura de classes em Java no decorrer do projeto;</li>
-  <li><b>Entrega de resultados</b> - Busquei realizar as entregas em tempo ideal, com qualidade e eficiência durante o desenvolvimento.</li>
+  <li>
+    <b>Flexibilidade</b> - Com novos ambientes e desafios que surgiram com a transição de markdown, HTML e CSS para a linguagem Java e uso de banco de dados MySQL, foi necessária uma maior capacidade de adaptação a mudanças durante o processo, compreendendo e aprendendo a lidar com as ferramentas NetBeans e MySQL Workbench;
+  </li>
+  
+  <li>
+    <b>Criatividade</b> - Minha capacidade criativa foi explorada ao contribuir para a criação do frontend, elaborando o wireframe e desenvolvendo as telas de login, cadastro e edição de usuários, usando o ambiente intuitivo disponibilizado pelo software NetBeans. Também contribuí no decorrer do projeto com soluções para problemas, como erros ao editar usuários utilizando a estrutura de classes e objetos em Java e filtros de usuários, fazendo conexão da aplicação com o banco de dados;
+  </li>
+  
+  <li>
+    <b>Entrega de resultados</b> - Busquei realizar as entregas em tempo ideal, com qualidade e eficiência durante o desenvolvimento e usando o tempo salvo para colaborar com os demais para a solução de problemas no tratamento dos dados, elaborando melhor as funções de cadastro e edição de usuários com as classes de conexão e tratamento disponibilizadas no pacote java.sql.
+  </li>
 </ul>
 
 <br/>
@@ -221,7 +246,11 @@ Durante o desenvolvimento, exerci a função de Developer no projeto, de acordo 
 
 ### 📋 Desafio (Problema)
 
-Nosso cliente, como usuário, procurava por um sistema de gerenciamento de usuários, assim como um serviço de autenticação/autorização. Este serviço deveria ser implementando utilizando tecnologia de microserviço. Deveria ser utilizado container, e implementando em esteira de CI/CD. Também precisava seguir as boas práticas de desenvolvimento orientado a objetos como, SOLID e Clean Code, e Clean Architecture. O sistema deveria possuir uma interface para gerenciar os usuarios, pemitindo que sejam criados, visualizados, editados e removidos, permitir a atribuição de permissões para cada usuário e utilizar como tecnologia backend a linguagem NodeJS, em sua versão mais atual, banco de dados Postgres, e para o frontend ReactJS.
+Durante este semestre, nosso cliente foi a empresa Visiona, que atua na área de tecnologia espacial. Ela buscava um sistema de gerenciamento de usuários, bem como um serviço de autenticação e autorização, para que a administração e o controle do status de seus clientes cadastrados, assim como de seus funcionários, se tornassem mais eficientes.
+
+Este serviço deveria ser implementado utilizando a tecnologia de microserviços. Deveriam ser utilizados containers, e a implementação deveria ocorrer em uma esteira de CI/CD. Além disso, era necessário seguir as boas práticas de desenvolvimento orientado a objetos, como SOLID, Clean Code e Clean Architecture.
+
+Também deveria ser criada uma interface para gerenciar os usuários, permitindo que fossem criados, visualizados, editados e removidos, além de possibilitar a atribuição de permissões para cada usuário. A tecnologia de backend deveria ser a linguagem NodeJS, na versão mais atual, com banco de dados Postgres, e para o frontend, ReactJS.
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/JoaoGRMira/sistema-web-alta-complexidade)
 
@@ -253,7 +282,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/e5930f16-666e
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img align="center" alt="NetBeans" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <span>PostgreSQL</span>
 </div>
 <div>
@@ -267,7 +296,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/e5930f16-666e
 
 ### 💡Contribuições Pessoais
 
-Durante esse projeto, exerci novamente a função de Developer, onde fui responsável por tarefas tanto no backend quanto no frontend. Realizei tarefas como desenvolvimento dos sistemas de login, cadastro usuários de diferentes tipos e listagem desses usuários, assim como a edição e exclusão deles. Também fui responsável por algumas interfaces no frontend, como telas de edição, e por alguns ajustes na tela de tabela de listagem de usuários. O desenvolvimento em uma nova linguagem e novos frameworks trouxeram diversos desafios para todos, acarretando na necessidade da mudança de estratégias durante o projeto. Esses desafios ocasionaram em atrasos e falhas impactantes no desenvolvimento, porém foram superados ao decorrer do semestre, resultando novamente em uma entrega com qualidade e dentro dos padrões e requisitos.
+Durante esse projeto, exerci novamente a função de Developer, onde fui responsável por tarefas tanto no backend quanto no frontend. Realizei tarefas como desenvolvimento dos sistemas de login, cadastro usuários de diferentes tipos e listagem desses usuários, assim como a edição e exclusão deles. Também fui responsável por algumas interfaces no frontend, como telas de edição, e por alguns ajustes na tela de tabela de listagem de usuários. O desenvolvimento em uma nova linguagem e novos frameworks trouxeram diversos desafios para todos, acarretando na necessidade da mudança de estratégias durante o projeto. Esses desafios ocasionaram em atrasos e falhas impactantes no desenvolvimento, aumentando a tensão e causando desavenças entre alguns membros da equipe. Porém, esses desafios foram superados e solucionados ao decorrer do semestre, resultando novamente em uma entrega com qualidade e dentro dos padrões e requisitos.
 
 <br>
 
@@ -282,9 +311,17 @@ Durante esse projeto, exerci novamente a função de Developer, onde fui respons
 
 <b>Soft Skills</b>
 <ul>
-  <li><b>Resolução de problemas</b> - Durante o desenvolvimento, problemas e desafios da linguagem e da aplicação, tal como problemas internos no grupo, exigiram identificação rápida e soluções eficazes para que tudo fosse entregue como planejado. Precisei aprimorar meu conhecimento em lógica de programação para aplicar novas estratégias em JavaScript, implementando um CRUD funcional e fazendo sua integração com frontend e banco de dados. Também busquei por frameworks como Express, Cors e Pg, facilitando o desenvolvimento;</li>
-  <li><b>Pensamento crítico</b> - Foi necessário analisar de forma crítica o processo de desenvolvimento, identificando padrões e evidências daquilo que poderia causar possíveis divergências durante o semestre, como a gestão do tempo. Partindo da metodologia scrum como metodologia ágil aplicada no projeto, foi necessário identificar e apontar aquilo que estava causando atrasos para as entregas.;</li>
-  <li><b>Autoconhecimento</b> - Em meio aos desafios do semestre, precisei entender e reconhecer meus pontos fortes e fracos, valores e motivações. Isso foi imprenscindível para meu desenvolvimento pessoal e profissional, e para que minha contribuição para o grupo durante a resolução dos problemas e desenvolvimento do projeto atingisse o nível necessário.</li>
+  <li>
+    <b>Resolução de problemas</b> - Durante o desenvolvimento, problemas e desafios relacionados à linguagem e à aplicação, assim como problemas internos no grupo, exigiram identificação rápida dos problemas e soluções eficazes para que tudo fosse entregue conforme o planejado. Precisei aprimorar meu conhecimento em lógica de programação para aplicar novas estratégias em JavaScript e ReactJS, implementando um CRUD funcional e fazendo sua integração com o front-end e o banco de dados por meio dos frameworks Express, Cors e Pg, além de aplicar o conceito de componentes e SPA (Single Page Application);
+  </li>
+  
+  <li>
+    <b>Pensamento crítico</b> - Foi necessário analisar de forma crítica o processo de desenvolvimento, identificando padrões e evidências daquilo que poderia causar possíveis divergências durante o semestre, como a gestão do tempo de alguns membros ou a falta de colaboração. Partindo da metodologia scrum como metodologia ágil aplicada no projeto, foi necessário identificar e apontar ao grupo aquilo que estava causando atrasos nas entregas através de reuniões e conversas;
+  </li>
+  
+  <li>
+    <b>Autoconhecimento</b> - Em meio aos desafios do semestre, precisei entender e reconhecer meus pontos fortes e fracos, valores e motivações. Isso foi imprescindível para o meu desenvolvimento pessoal e profissional, e para que minha contribuição ao grupo na resolução dos problemas e no desenvolvimento do projeto fosse eficaz. Com isso, reconheci minhas habilidades em desenvolvimento front-end e minha capacidade de solucionar problemas em back-end.
+  </li>
 </ul>
 
 <br/>
@@ -297,7 +334,9 @@ Durante esse projeto, exerci novamente a função de Developer, onde fui respons
 
 ### 📋 Desafio (Problema)
 
-O projeto Sistema circular de produção de saneantes a partir de óleo recuperado, tinha o objetivo de envolver os agentes participantes da cadeia de descarte e reciclagem do óleo de fritura usado. O desafio consistia em criar uma plataforma que gerenciasse os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados, de forma que os créditos poderiam ser usados posteriormente para compra dos saneantes na loja virtual.
+O projeto Sistema Circular de Crédito foi proposto pela empresa Greenneat, que atua no ramo de produtos de limpeza sustentável, com o objetivo de envolver os agentes participantes da cadeia de descarte e reciclagem do óleo de fritura usado. O projeto foi elaborado para facilitar o processo de coleta e, por meio de recompensas, incentivar a entrega de óleo usado para reutilização na fabricação de produtos sustentáveis, contribuindo para o meio ambiente.
+
+Com isso em mente, a solução consistia em criar uma plataforma para gerenciar os créditos que seriam usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. Esses créditos poderiam ser utilizados posteriormente para a compra de saneantes na loja virtual.
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/JoaoGRMira/sistema-circular-de-credito)
 
@@ -329,7 +368,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/b2c3ea3b-406c
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img align="center" alt="NetBeans" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <span>PostgreSQL</span>
 </div>
 <div>
@@ -358,9 +397,17 @@ Nesse semestre, ocupei o cargo de Scrum Master do projeto. Fui responsável por 
 
 <b>Soft Skills</b>
 <ul>
-  <li><b>Trabalho sob pressão</b> - Devido à complexidade do projeto e das tarefas definidas para que os requisitos fossem cumpridos, foi necessário lidar com a pressão do prazo das sprints com calma e foco, priorizando as tarefas mais importantes e tomando decisões rápidas;</li>
-  <li><b>Empatia</b> - Foi necessário demonstrar sensibilidade às perspectivas dos demais para promover um ambiente colaborativo durante o desenvolvimento;</li>
-  <li><b>Resiliência</b> - Desafios e contratempos foram enfrentados ao longo do projeto com determinação e perseverança, mantendo o compromisso com os objetivos e buscando soluções alternativas para superar obstáculos.</li>
+  <li>
+    <b>Trabalho sob pressão</b> - Devido à complexidade do projeto e das tarefas definidas para que os requisitos fossem cumpridos, foi necessário lidar com a pressão do prazo das sprints com calma e foco, dando prioridade para as tarefas mais importantes do backlog e tomando decisões rápidas, como identificar a necessidade de mudar o caminho que estávamos seguindo antes que o impacto negativo fosse muito grande no resultado do produto;
+  </li>
+  
+  <li>
+    <b>Empatia</b> - Foi necessário demonstrar sensibilidade às diferentes perspectivas dos demais para promover um ambiente colaborativo durante o desenvolvimento, ouvindo a opinião de todos e trabalhando para manter todos alinhados com o objetivo, apontando diferentes pontos de vista para aqueles que discordassem do andamento;
+  </li>
+  
+  <li>
+    <b>Resiliência</b> - Desafios e contratempos foram enfrentados ao longo do projeto com determinação e perseverança, mantendo o compromisso com os objetivos e buscando soluções alternativas para superar obstáculos. Foi necessário resolver conflitos gerados por discordância, assegurando a todos que as decisões tomadas seriam boas para a entrega final.
+  </li>
 </ul>
 
 <br/>
@@ -373,7 +420,9 @@ Nesse semestre, ocupei o cargo de Scrum Master do projeto. Fui responsável por 
 
 ### 📋 Desafio (Problema)
 
-O desafio foi pensado a partir da necessidade de automatizar e facilitar o gerenciamento de parceiros registrados no programa Oracle PartnerNetwork. Foi proposto o desenvolvimento de um sistema em plataforma mobile responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes.
+O desafio foi proposto pela empresa Oracle e pensado para atender à necessidade de automatizar e facilitar o gerenciamento de parceiros registrados no programa Oracle PartnerNetwork. A atuação da empresa é ampla e abrange diversas áreas do setor de tecnologia, e o projeto foi desenvolvido especificamente para o programa PartnerNetwork, com o objetivo de ajudar os clientes a adquirirem especializações e relevância no mercado.
+
+Como solução, foi proposto o desenvolvimento de um sistema em plataforma móvel responsável por cadastrar novos parceiros, gerenciar a atualização de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes.
 
 > Acesse o repositório desse projeto clicando [aqui!](https://github.com/atomofatec/API-ORACLE)
 
@@ -394,7 +443,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img align="center" alt="ReactJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="ReactNative" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <span>React Native</span>
 </div>
 <div>
@@ -405,7 +454,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img align="center" alt="NetBeans" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <span>PostgreSQL</span>
 </div>
 <div>
@@ -416,7 +465,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 <br>
 
 <div style="display: flex; align-items: center;">
-  <img align="center" alt="NetBeans" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="MongoDB" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
   <span>MongoDB</span>
 </div>
 <div>
@@ -431,7 +480,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 ### 💡Contribuições Pessoais
 
 Novamente fui Scrum Master da equipe durante esse semestre. Fui o responsável pelo gerenciamento do grupo, garantindo que as tarefas fossem executadas e entregues dentro dos prazos seguindo e respeitando a metodologia Scrum. Com o uso de ferramentas de gestão como o Notion, utilizei métodos como Kanban para organização das tarefas, tabelas para fácil visualização de backlogs e afins, páginas dedicadas à anotações e explicações do projeto, e guias de padronização de commits. Também fui responsável pelo gerenciamento do GitHub, mantendo três repositórios (Parent, Front e BD) de forma adequada e consistente. Apliquei a estratégia de branches para que o desenvolvimento seguisse um fluxo limpo e mais seguro, e também fui responsável pela criação de tags e releases de versões da aplicação.
-Durante o desenvolvimento, enfrentamos impasses em relação à mudanças em funções do projeto à pedido do cliente, o que exigiu uma rápida reação para que o tempo não fosse perdido. Esses impasses logo foram contornados, reestruturando partes do projeto para que se adequasse àquilo que foi pedido, sem impactar o desenvolvimento e o ritmo no qual a equipe estava trabalhando.
+Durante o desenvolvimento, enfrentamos impasses em relação à mudanças em funções do projeto à pedido do cliente, o que exigiu uma rápida reação para que o tempo não fosse perdido. Com isso, foi necessário novas reuniões para explicar novamente os requisitos para garantir que todos haviam entendido corretamente, o que gastou algum tempo do desenvolvimento. No entando, esses impasses logo foram contornados, reestruturando partes do projeto para que se adequasse àquilo que foi pedido, sem impactar de forma grave o processo e o ritmo no qual a equipe estava trabalhando.
 
 <br>
 
@@ -447,11 +496,136 @@ Durante o desenvolvimento, enfrentamos impasses em relação à mudanças em fun
 
 <b>Soft Skills</b>
 <ul>
-  <li><b>Resolução de problemas</b> - Durante o semestre, aprendi a encontrar soluções de forma mais rápida e eficaz tanto para problemas relacionados à linguagem utilizada, quanto na gestão do grupo, como em casos de reformulação de conceitos relacionados ao funcionamento da aplicação;</li>
-  <li><b>Gestão de tempo</b> - Sendo o semestre com maior aproveitamento do tempo, aprendi a organizar as tarefas de forma mais inteligente e a guiar a equipe à serem mais proativos quanto ao cumprimento de prazos, sempre se precavendo contra possíveis contratempos;</li>
-  <li><b>Proatividade</b> - Exerci a proatividade principalmente em relação ao planejamento da equipe, buscando programar os próximos passos com antecedência e analisando as situações de forma cautelosa, para contornar possíveis problemas e atrasos. Também busquei ajudar os colegas de equipe sempre que possível, colaborando para solucionar impasses em tarefas quando necessário, como quando implementei o uso do framework Expo ao projeto, garantindo maior versatilidade ao realizar o deploy do aplicativo.</li>
+  <li>
+    <b>Resolução de problemas</b> - Durante o semestre, aprendi a encontrar soluções de forma mais rápida e eficaz tanto para problemas relacionados à linguagem utilizada, quanto na gestão do grupo, como no caso da reformulação do sistema de expertises e qualificadores a pedido do cliente, e no uso do Expo Go para deploy do projeto;
+  </li>
+  
+  <li>
+    <b>Gestão de tempo</b> - Sendo o semestre com maior aproveitamento do tempo, aprendi a organizar as tarefas de forma mais inteligente e a guiar a equipe à serem mais proativos quanto ao cumprimento de prazos, sempre se precavendo contra possíveis contratempos ao definir prazos de conclusão menores para tarefas essenciais;
+  </li>
+  
+  <li>
+    <b>Proatividade</b> - Exerci a proatividade principalmente em relação ao planejamento da equipe, buscando programar os próximos passos com antecedência e analisando as situações de forma cautelosa, para contornar possíveis problemas e atrasos. Também busquei ajudar os colegas de equipe sempre que possível, colaborando para solucionar impasses em tarefas quando necessário, como quando implementei o uso do framework Expo ao projeto, garantindo maior versatilidade ao realizar o deploy do aplicativo.
+  </li>
 </ul>
 
 <br/>
 <h1> </h1>
 <br/>
+
+<span id='domrock'>
+
+### IA para Analytics Empresarial - 2024-2 (6° Semestre)
+
+### 📋 Desafio (Problema)
+
+Proposto pela empresa Dom Rock, que tem foco no setor de tecnologia, com ênfase em Data Lakes e Inteligência Artificial, o problema apresentado foi o vasto potencial criado pelas Inteligências Artificiais no mercado, que ainda não foi completamente explorado. Para o desenvolvimento do projeto, foi disponibilizada uma base de dados de reviews de produtos, e sugeriu-se a criação de um chatbot voltado para essa área.
+
+A solução pensada consiste no desenvolvimento de um chatbot baseado em IA generativa, voltado para a análise de dados comerciais e reviews de clientes. O principal objetivo é facilitar a interpretação dos dados qualitativos (comentários de consumidores) sem precisar utilizar dashboards complexos ou gráficos. O chatbot é capaz de responder perguntas específicas sobre o desempenho de produtos e a opinião dos consumidores, oferecendo respostas em linguagem natural, de forma clara, objetiva e direta.
+
+> Acesse o repositório desse projeto clicando [aqui!](https://github.com/atomofatec/API-DOMROCK)
+
+https://github.com/user-attachments/assets/4f9d6c0e-d593-4d6e-8313-a445def2ef07
+
+<h1></h1>
+
+### ⚒️ Tecnologias Utilizadas
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <span>Python</span>
+</div>
+<div>
+  <ul>
+    <li><b>Utilizada para o desenvolvimento dos sistemas.</b></li>
+  </ul>
+</div>
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="Vuejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+  <span>Vue.js</span>
+</div>
+<div>
+  <ul>
+    <li><b>Utilizada para estruturação da interface no frontend.</b></li>
+  </ul>
+</div>
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="Langchain" height="80" width="70" src="https://cdn.scrapfly.io/0.0.736/www/public/svg/doc/integration/langchain-icon.svg?version=0.0.736">
+  <span>Langchain</span>
+</div>
+<div>
+  <ul>
+    <li><b>Utilizado para facilitar a integração de modelos de IA.</b></li>
+  </ul>
+</div>
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="HuggingFace" height="40" width="40" src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde">
+  <span>Huggingface</span>
+</div>
+<div>
+  <ul>
+    <li><b>Utilizado para utilização de modelos de embeddings.</b></li>
+  </ul>
+</div>
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="GroqCloud" height="40" width="40" src="https://cdn-avatars.huggingface.co/v1/production/uploads/1673913216963-63115d7864939fabc00f0b45.png">
+  <span>GroqCloud</span>
+</div>
+<div>
+  <ul>
+    <li><b>Utilizado para utilização de modelos de geração de texto.</b></li>
+  </ul>
+</div>
+<br>
+
+<div style="display: flex; align-items: center;">
+  <img align="center" alt="ChromaDB" height="40" width="50" src="https://miro.medium.com/v2/resize:fit:793/1*2crwn9fsu58hVQua-dEa3w.png">
+  <span>ChromaDB</span>
+</div>
+<div>
+  <ul>
+    <li><b>Utilizado para armazenamento de vetores.</b></li>
+  </ul>
+</div>
+<br>
+
+<h1></h1>
+
+### 💡Contribuições Pessoais
+
+Durante esse semestre, exerci a função de Developer e fui responsável pelo desenvolvimento do back-end da aplicação. Realizei as tarefas de Processamento de Linguagem Natural, implementação do Langchain, implementação de modelos usando Groq, criação de endpoints e revisão de Pull Requests, além de solucionar os conflitos técnicos que surgiram ao longo do projeto. Devido às dificuldades técnicas da equipe de desenvolvedores, fiquei responsável por auxiliar nas dificuldades que surgiram no desenvolvimento do sistema, tirando dúvidas e guiando os demais no processo. Também fui responsável por realizar as tarefas com atraso, como geração de embeddings e armazenamento dos vetores no ChromaDB, o que exigiu lidar com sobrecarga de tarefas e funções. Precisei reformular a estrutura do chatbot para que se adequasse aos requisitos, implementando classes do Langchain, como 'Langchain Huggingface' e 'Langchain Groq' para geração de chunks, embeddings e geração de texto com o modelo Llama, e substituindo o uso do Faiss pelo ChromaDB para maior eficiência, utilizando a 'Langchain Chroma'. Com isso, pude garantir uma entrega que cumpria os requisitos definidos.
+
+<br>
+
+<b>Hard Skills</b>
+<ul>
+  <li><b>Processamento de Linguagem Natural</b> - Realizo com autonomia</li>
+  <li><b>Chunking</b> - Realizo com autonomia</li>
+  <li><b>Geração de Embeddings</b> - Realizo com pesquisas</li>
+  <li><b>Armazenamento de vetores com ChromaDB</b> - Realizo com pesquisas</li>
+  <li><b>Geração de Texto com IA</b> - Realizo com pesquisas</li>
+</ul>
+
+<br>
+
+<b>Soft Skills</b>
+<ul>
+  <li>
+    <b>Proatividade</b> - Dentro do grupo, me destaquei pela proatividade, demonstrando agilidade ao executar minhas tarefas e no gerenciamento do tempo para auxiliar os colegas de equipe com suas dificuldades. Durante a segunda sprint, ao notar o desempenho insatisfatório do chatbot, concluí minhas tarefas antes do prazo para focar na colaboração com as tarefas dos demais membros e resolver os problemas que surgiram devido às técnicas ineficientes aplicadas. Com isso, apliquei efetivamente o Langchain e suas classes, mudei os modelos de IA utilizados, substituí o banco de vetores Faiss pelo ChromaDB e reestruturei os arquivos para que funcionassem corretamente;
+  </li>
+  
+  <li>
+    <b>Colaboração</b> - Com base em meus estudos sobre modelos e técnicas essenciais para o desenvolvimento de um chatbot, elaborei documentos técnicos e referências para que o restante do grupo pudesse se aprofundar e compreender o tema. Também tirei dúvidas e auxiliei sempre que necessário e possível;
+  </li>
+  
+  <li>
+    <b>Entrega de Resultados</b> - Após realizar a reestruturação do projeto, aplicar o Langchain e as técnicas corretas, foi possível cumprir os requisitos estabelecidos pela Product Owner, conforme definido em conversas com o cliente. Além dessas tarefas extras, que apresentaram bons resultados, realizei entregas corretas e dentro do prazo, sem necessidade de refatorações ou correções.
+  </li>
+</ul>
