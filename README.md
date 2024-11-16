@@ -618,7 +618,10 @@ Durante esse semestre, exerci a função de Developer e fui responsável pelo de
 <b>Soft Skills</b>
 <ul>
   <li>
-    <b>Proatividade</b> - Dentro do grupo, me destaquei pela proatividade, demonstrando agilidade ao executar minhas tarefas e no gerenciamento do tempo para auxiliar os colegas de equipe com suas dificuldades. Durante a segunda sprint, ao notar o desempenho insatisfatório do chatbot, concluí minhas tarefas antes do prazo para focar na colaboração com as tarefas dos demais membros e resolver os problemas que surgiram devido às técnicas ineficientes aplicadas. Com isso, apliquei efetivamente o Langchain e suas classes, mudei os modelos de IA utilizados, substituí o banco de vetores Faiss pelo ChromaDB e reestruturei os arquivos para que funcionassem corretamente;
+    <b>Autoconhecimento</b> - Durante o semestre, com o surgimento de diversos desafios técnicos decorrentes da complexidade do projeto, precisei explorar diferentes soluções para que o produto final se adequasse àquilo que foi definido. Ao longo dessa experiência, recebi orientações e conselhos que me ajudaram a entender e reconhecer melhor meus valores e motivações, fundamentados na persistência e no compromisso em fazer uma entrega de qualidade independente das dificuldades;
+    
+<!--    Dentro do grupo, me destaquei pela proatividade, demonstrando agilidade ao executar minhas tarefas e no gerenciamento do tempo para auxiliar os colegas de equipe com suas dificuldades. Durante a segunda sprint, ao notar o desempenho insatisfatório do chatbot, concluí minhas tarefas antes do prazo para focar na colaboração com as tarefas dos demais membros e resolver os problemas que surgiram devido às técnicas ineficientes aplicadas. Com isso, apliquei efetivamente o Langchain e suas classes, mudei os modelos de IA utilizados, substituí o banco de vetores Faiss pelo ChromaDB e reestruturei os arquivos para que funcionassem corretamente; -->
+
   </li>
   
   <li>
