@@ -424,7 +424,7 @@ O desafio foi proposto pela empresa Oracle e pensado para atender à necessidade
 
 Como solução, foi proposto o desenvolvimento de um sistema em plataforma móvel responsável por cadastrar novos parceiros, gerenciar a atualização de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes.
 
-> Acesse o repositório desse projeto clicando [aqui!](https://github.com/atomofatec/API-ORACLE)
+> Acesse o repositório desse projeto clicando [aqui!](https://github.com/JoaoGRMira/sistema-gestao-de-parceiros)
 
 https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e-4c50-ba11-82d906f48f33
 
@@ -497,11 +497,11 @@ Durante o desenvolvimento, enfrentamos impasses em relação à mudanças em fun
 <b>Soft Skills</b>
 <ul>
   <li>
-    <b>Resolução de problemas</b> - Durante o semestre, aprendi a encontrar soluções de forma mais rápida e eficaz tanto para problemas relacionados à linguagem utilizada, quanto na gestão do grupo, como no caso da reformulação do sistema de expertises e qualificadores a pedido do cliente, e no uso do Expo Go para deploy do projeto;
+    <b>Resolução de problemas</b> - Durante o semestre, aprendi a encontrar soluções de forma mais rápida e eficaz, tanto para questões relacionadas à linguagem utilizada quanto para desafios na gestão do grupo. Isso incluiu a reformulação do sistema de expertises e qualificadores a pedido do cliente e a adoção do Expo Go para realizar o deploy do projeto;
   </li>
   
   <li>
-    <b>Gestão de tempo</b> - Sendo o semestre com maior aproveitamento do tempo, aprendi a organizar as tarefas de forma mais inteligente e a guiar a equipe à serem mais proativos quanto ao cumprimento de prazos, sempre se precavendo contra possíveis contratempos ao definir prazos de conclusão menores para tarefas essenciais;
+    <b>Gestão de tempo</b> - Sendo o semestre com maior aproveitamento do tempo, aprendi a organizar as tarefas de forma mais eficiente, utilizando ferramentas como o Notion e técnicas de gestão, como o Kanban. Também liderei a equipe no incentivo à proatividade quanto ao cumprimento de prazos, sempre se precavendo contra possíveis contratempos ao definir prazos de conclusão menores para tarefas essenciais;
   </li>
   
   <li>
@@ -523,9 +523,9 @@ Proposto pela empresa Dom Rock, que tem foco no setor de tecnologia, com ênfase
 
 A solução pensada consiste no desenvolvimento de um chatbot baseado em IA generativa, voltado para a análise de dados comerciais e reviews de clientes. O principal objetivo é facilitar a interpretação dos dados qualitativos (comentários de consumidores) sem precisar utilizar dashboards complexos ou gráficos. O chatbot é capaz de responder perguntas específicas sobre o desempenho de produtos e a opinião dos consumidores, oferecendo respostas em linguagem natural, de forma clara, objetiva e direta.
 
-> Acesse o repositório desse projeto clicando [aqui!](https://github.com/atomofatec/API-DOMROCK)
+> Acesse o repositório desse projeto clicando [aqui!](https://github.com/JoaoGRMira/chatbot-analytics-empresarial)
 
-https://github.com/user-attachments/assets/4f9d6c0e-d593-4d6e-8313-a445def2ef07
+https://github.com/user-attachments/assets/f44eb67d-aa9d-4f18-b87a-9b4f3c732a1b
 
 <h1></h1>
 
@@ -618,17 +618,16 @@ Durante esse semestre, exerci a função de Developer e fui responsável pelo de
 <b>Soft Skills</b>
 <ul>
   <li>
-    <b>Autoconhecimento</b> - Durante o semestre, com o surgimento de diversos desafios técnicos decorrentes da complexidade do projeto, precisei explorar diferentes soluções para que o produto final se adequasse àquilo que foi definido. Ao longo dessa experiência, recebi orientações e conselhos que me ajudaram a entender e reconhecer melhor meus valores e motivações, fundamentados na persistência e no compromisso em fazer uma entrega de qualidade independente das dificuldades;
+    <b>Autoconhecimento</b> - Durante o semestre, enfrentei diversos desafios técnicos decorrentes da complexidade do projeto. Isso exigiu que eu explorasse diferentes soluções para adequar o produto final às definições estabelecidas, aplicando efetivamente a biblioteca Langchain do Python e buscando técnicas mais eficientes no desenvolvimento de uma IA. Essa experiência me ajudou a compreender melhor meus valores e motivações, reforçando minha persistência e compromisso com entregas de qualidade, independentemente das dificuldades enfrentadas;
     
 <!--    Dentro do grupo, me destaquei pela proatividade, demonstrando agilidade ao executar minhas tarefas e no gerenciamento do tempo para auxiliar os colegas de equipe com suas dificuldades. Durante a segunda sprint, ao notar o desempenho insatisfatório do chatbot, concluí minhas tarefas antes do prazo para focar na colaboração com as tarefas dos demais membros e resolver os problemas que surgiram devido às técnicas ineficientes aplicadas. Com isso, apliquei efetivamente o Langchain e suas classes, mudei os modelos de IA utilizados, substituí o banco de vetores Faiss pelo ChromaDB e reestruturei os arquivos para que funcionassem corretamente; -->
-
   </li>
   
   <li>
-    <b>Colaboração</b> - Com base em meus estudos sobre modelos e técnicas essenciais para o desenvolvimento de um chatbot, elaborei documentos técnicos e referências para que o restante do grupo pudesse se aprofundar e compreender o tema. Também tirei dúvidas e auxiliei sempre que necessário e possível;
+    <b>Colaboração</b> - Baseado nos meus estudos sobre modelos e técnicas essenciais para o desenvolvimento de um chatbot, elaborei documentos técnicos e referências para que os demais membros do grupo pudessem se aprofundar no tema. Os materiais abordaram conceitos como Processamento de Linguagem Natural, chunking, geração de embeddings, arquitetura RAG e aplicações práticas com Langchain e ChromaDB. Também tirei dúvidas e auxiliei sempre que necessário e possível;
   </li>
   
   <li>
-    <b>Entrega de Resultados</b> - Após realizar a reestruturação do projeto, aplicar o Langchain e as técnicas corretas, foi possível cumprir os requisitos estabelecidos pela Product Owner, conforme definido em conversas com o cliente. Além dessas tarefas extras, que apresentaram bons resultados, realizei entregas corretas e dentro do prazo, sem necessidade de refatorações ou correções.
+    <b>Entrega de Resultados</b> - Após a reestruturação do projeto, implementei o Langchain e técnicas apropriadas, como a geração de embeddings e o armazenamento de vetores no ChromaDB, para atender aos requisitos definidos pela Product Owner. Isso permitiu a criação de um chatbot capaz de fornecer informações quantitativas e qualitativas sobre reviews, além de dados como gênero, idade e região dos avaliadores, conforme definido em conversas com o cliente. Além dessas entregas adicionais, concluí minhas tarefas de Processamento de Linguagem Natural, geração de embeddings e deploy do backend dentro do prazo e sem a necessidade de refatorações ou correções.
   </li>
 </ul>
