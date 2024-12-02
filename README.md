@@ -16,14 +16,16 @@
 <span id='introducao'>
 
 <h2 align='center'>👨‍💻 Introdução 👨‍💻</h2>
-<div align="center"><img src="https://avatars.githubusercontent.com/u/103254343?v=4" width="200" height="200"/></div>
-<p>
-Sou Técnico em Automação Industrial formado pela ETEC Profª Ilza Nascimento Pintus e atualmente estudante do 6º semestre de Análise e Desenvolvimento de Sistemas na FATEC Profº Jessen Vidal. Tive minhas primeiras interações com o mundo do desenvolvimento e das soft skills durante o curso técnico de automação, integrado ao ensino médio. Essa experiência me proporcionou a oportunidade de conhecer a área, descobrir habilidades e metodologias que seriam desenvolvidas posteriormente durante o tecnólogo, sendo de suma importância para minha integração ao mercado de trabalho.
+<div>
+  <img src="https://avatars.githubusercontent.com/u/103254343?v=4" width="200" height="200" align="left" style="margin-right: 15px; margin-bottom: 10px;"/>
+  <p style="text-align: justify;">
+    Sou Técnico em Automação Industrial formado pela ETEC Profª Ilza Nascimento Pintus e atualmente estudante do 6º semestre de Análise e Desenvolvimento de Sistemas na FATEC Profº Jessen Vidal. Tive minhas primeiras interações com o mundo do desenvolvimento e das soft skills durante o curso técnico de automação, integrado ao ensino médio. Essa experiência me proporcionou a oportunidade de conhecer a área, descobrir habilidades e metodologias que seriam desenvolvidas posteriormente durante o tecnólogo, sendo de suma importância para minha integração ao mercado de trabalho.
 
-Em minha trajetória profissional, atuei como desenvolvedor front-end na empresa M&F Soluções em Tecnologia durante o período de 1 ano. Iniciei meu primeiro estágio em julho de 2023, onde pude colocar em prática o que foi aprendido e aprimorar tais habilidades para adequá-las às demandas da empresa. Mesmo com conhecimento "Full-Stack", sabendo lidar com back-end, banco de dados e front-end, meu maior foco está na área de desenvolvimento web, principalmente na construção de interfaces utilizando ReactJS e ferramentas semelhantes.
+  Em minha trajetória profissional, atuei como desenvolvedor front-end na empresa M&F Soluções em Tecnologia durante o período de 1 ano. Iniciei meu primeiro estágio em julho de 2023, onde pude colocar em prática o que foi aprendido e aprimorar tais habilidades para adequá-las às demandas da empresa. Mesmo com conhecimento "Full-Stack", sabendo lidar com back-end, banco de dados e front-end, meu maior foco está na área de desenvolvimento web, principalmente na construção de interfaces utilizando ReactJS e ferramentas semelhantes.
 
-Sigo em busca de aprimorar tanto minhas hard skills quanto minhas soft skills, fortalecendo minhas capacidades gerais em programação e me preparando para novos desafios na área, contribuindo para um ambiente cooperativo e eficiente.
-</p>
+  Sigo em busca de aprimorar tanto minhas hard skills quanto minhas soft skills, fortalecendo minhas capacidades gerais em programação e me preparando para novos desafios na área, contribuindo para um ambiente cooperativo e eficiente.
+  </p>
+</div>
 
 <br>
 
